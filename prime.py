@@ -1,5 +1,5 @@
 flag = False
-num = 2
+num = 67
 
 #num = int(input("enter a number "))  --> u can also try this by asking input from user
 
