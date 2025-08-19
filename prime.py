@@ -18,4 +18,6 @@ elif num > 1:
 		print(num, "is not a prime number")
 
 
+def primen(add):
+	pass
 
